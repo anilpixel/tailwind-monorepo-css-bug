@@ -1,0 +1,34 @@
+{
+  "references": [
+    {
+      "path": "apps/demo"
+    },
+    {
+      "path": "apps/integrate-demo"
+    },
+    {
+      "path": "packages/assets"
+    },
+    {
+      "path": "packages/components"
+    },
+    {
+      "path": "packages/plugins"
+    },
+    {
+      "path": "packages/utils"
+    },
+    {
+      "path": "packages/core"
+    },
+    {
+      "path": "packages/skeleton"
+    },
+    {
+      "path": "packages/types"
+    },
+    {
+      "path": "packages/sdk"
+    }
+  ]
+}
